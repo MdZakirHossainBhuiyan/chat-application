@@ -1,0 +1,318 @@
+{
+  "users": [
+    {
+      "email": "sumit@learnwithsumit.com",
+      "password": "$2a$10$tGMlJhQmAnx7f4cIVY55FOtIRV91wjRwBhdpaANPoslku3P/aAjPK",
+      "name": "Sumit Saha",
+      "id": 1
+    },
+    {
+      "email": "akash@learnwithsumit.com",
+      "password": "$2a$10$Oc6jXnK6/pbSqmkngo/b.OhsU3JRf4OU1h9QwIoqz8ZUpG/hgHq72",
+      "name": "Akash Ahmed",
+      "id": 2
+    },
+    {
+      "email": "saad@learnwithsumit.com",
+      "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
+      "name": "Saad Hasan",
+      "id": 3
+    },
+    {
+      "email": "zakirhossaintuhin@gmail.com",
+      "password": "$2a$10$lA/DourVjyiZtRaldeOfEuWSMFuas8.04oTNg9MMNv8CfMPapRtI.",
+      "name": "Zakir Hossain",
+      "id": 4
+    }
+  ],
+  "conversations": [
+    {
+      "participants": "sumit@learnwithsumit.com-saad@learnwithsumit.com",
+      "users": [
+        {
+          "email": "sumit@learnwithsumit.com",
+          "name": "Sumit Saha",
+          "id": 1
+        },
+        {
+          "email": "saad@learnwithsumit.com",
+          "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
+          "name": "Saad Hasan",
+          "id": 3
+        }
+      ],
+      "message": "I am fine. What about you?",
+      "timestamp": 1662555282000,
+      "id": 1
+    },
+    {
+      "participants": "saad@learnwithsumit.com-akash@learnwithsumit.com",
+      "users": [
+        {
+          "email": "saad@learnwithsumit.com",
+          "name": "Saad Hasan",
+          "id": 3
+        },
+        {
+          "email": "akash@learnwithsumit.com",
+          "password": "$2a$10$Oc6jXnK6/pbSqmkngo/b.OhsU3JRf4OU1h9QwIoqz8ZUpG/hgHq72",
+          "name": "Akash Ahmed",
+          "id": 2
+        }
+      ],
+      "message": "Hello Akash",
+      "timestamp": 1662555233731,
+      "id": 2
+    },
+    {
+      "participant": "zakirhossaintuhin@gmail.com-sumit@learnwithsumit.com",
+      "users": [
+        {
+          "email": "zakirhossaintuhin@gmail.com",
+          "name": "Zakir Hossain",
+          "id": 4
+        },
+        {
+          "email": "sumit@learnwithsumit.com",
+          "password": "$2a$10$tGMlJhQmAnx7f4cIVY55FOtIRV91wjRwBhdpaANPoslku3P/aAjPK",
+          "name": "Sumit Saha",
+          "id": 1
+        }
+      ],
+      "message": "hi",
+      "timestamp": 1675255070916,
+      "id": 3
+    },
+    {
+      "participant": "zakirhossaintuhin@gmail.com-sumit@learnwithsumit.com",
+      "users": [
+        {
+          "email": "zakirhossaintuhin@gmail.com",
+          "name": "Zakir Hossain",
+          "id": 4
+        },
+        {
+          "email": "sumit@learnwithsumit.com",
+          "password": "$2a$10$tGMlJhQmAnx7f4cIVY55FOtIRV91wjRwBhdpaANPoslku3P/aAjPK",
+          "name": "Sumit Saha",
+          "id": 1
+        }
+      ],
+      "message": "hi",
+      "timestamp": 1675255171137,
+      "id": 4
+    },
+    {
+      "participant": "zakirhossaintuhin@gmail.com-akash@learnwithsumit.com",
+      "users": [
+        {
+          "email": "zakirhossaintuhin@gmail.com",
+          "name": "Zakir Hossain",
+          "id": 4
+        },
+        {
+          "email": "akash@learnwithsumit.com",
+          "password": "$2a$10$Oc6jXnK6/pbSqmkngo/b.OhsU3JRf4OU1h9QwIoqz8ZUpG/hgHq72",
+          "name": "Akash Ahmed",
+          "id": 2
+        }
+      ],
+      "message": "hello",
+      "timestamp": 1675258696242,
+      "id": 5
+    },
+    {
+      "participant": "zakirhossaintuhin@gmail.com-akash@learnwithsumit.com",
+      "users": [
+        {
+          "email": "zakirhossaintuhin@gmail.com",
+          "name": "Zakir Hossain",
+          "id": 4
+        },
+        {
+          "email": "akash@learnwithsumit.com",
+          "password": "$2a$10$Oc6jXnK6/pbSqmkngo/b.OhsU3JRf4OU1h9QwIoqz8ZUpG/hgHq72",
+          "name": "Akash Ahmed",
+          "id": 2
+        }
+      ],
+      "message": "hi",
+      "timestamp": 1675497388130,
+      "id": 6
+    },
+    {
+      "participant": "zakirhossaintuhin@gmail.com-sumit@learnwithsumit.com",
+      "users": [
+        {
+          "email": "zakirhossaintuhin@gmail.com",
+          "name": "Zakir Hossain",
+          "id": 4
+        },
+        {
+          "email": "sumit@learnwithsumit.com",
+          "password": "$2a$10$tGMlJhQmAnx7f4cIVY55FOtIRV91wjRwBhdpaANPoslku3P/aAjPK",
+          "name": "Sumit Saha",
+          "id": 1
+        }
+      ],
+      "message": "hlw",
+      "timestamp": 1675852906133,
+      "id": 7
+    }
+  ],
+  "messages": [
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "saad@learnwithsumit.com",
+        "name": "Saad Hasan",
+        "id": 3
+      },
+      "receiver": {
+        "email": "sumit@learnwithsumit.com",
+        "password": "$2a$10$tGMlJhQmAnx7f4cIVY55FOtIRV91wjRwBhdpaANPoslku3P/aAjPK",
+        "name": "Sumit Saha",
+        "id": 1
+      },
+      "message": "Hello vai.",
+      "timestamp": 1662555214000,
+      "id": 1
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "saad@learnwithsumit.com",
+        "name": "Saad Hasan",
+        "id": 3
+      },
+      "receiver": {
+        "email": "akash@learnwithsumit.com",
+        "password": "$2a$10$Oc6jXnK6/pbSqmkngo/b.OhsU3JRf4OU1h9QwIoqz8ZUpG/hgHq72",
+        "name": "Akash Ahmed",
+        "id": 2
+      },
+      "message": "Hello Akash",
+      "timestamp": 1662555233731,
+      "id": 2
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "saad@learnwithsumit.com",
+        "name": "Saad Hasan",
+        "id": 3
+      },
+      "receiver": {
+        "email": "sumit@learnwithsumit.com",
+        "password": "$2a$10$tGMlJhQmAnx7f4cIVY55FOtIRV91wjRwBhdpaANPoslku3P/aAjPK",
+        "name": "Sumit Saha",
+        "id": 1
+      },
+      "message": "How are you?",
+      "timestamp": 1662555248212,
+      "id": 3
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "sumit@learnwithsumit.com",
+        "name": "Sumit Saha",
+        "id": 1
+      },
+      "receiver": {
+        "email": "saad@learnwithsumit.com",
+        "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
+        "name": "Saad Hasan",
+        "id": 3
+      },
+      "message": "I am fine. What about you?",
+      "timestamp": 1662555282000,
+      "id": 4
+    },
+    {
+      "conversationId": 3,
+      "sender": {
+        "email": "zakirhossaintuhin@gmail.com",
+        "name": "Zakir Hossain",
+        "id": 4
+      },
+      "receiver": {
+        "email": "sumit@learnwithsumit.com",
+        "password": "$2a$10$tGMlJhQmAnx7f4cIVY55FOtIRV91wjRwBhdpaANPoslku3P/aAjPK",
+        "name": "Sumit Saha",
+        "id": 1
+      },
+      "message": "hi",
+      "timestamp": 1675255070916,
+      "id": 5
+    },
+    {
+      "conversationId": 4,
+      "sender": {
+        "email": "zakirhossaintuhin@gmail.com",
+        "name": "Zakir Hossain",
+        "id": 4
+      },
+      "receiver": {
+        "email": "sumit@learnwithsumit.com",
+        "password": "$2a$10$tGMlJhQmAnx7f4cIVY55FOtIRV91wjRwBhdpaANPoslku3P/aAjPK",
+        "name": "Sumit Saha",
+        "id": 1
+      },
+      "message": "hi",
+      "timestamp": 1675255171137,
+      "id": 6
+    },
+    {
+      "conversationId": 5,
+      "sender": {
+        "email": "zakirhossaintuhin@gmail.com",
+        "name": "Zakir Hossain",
+        "id": 4
+      },
+      "receiver": {
+        "email": "akash@learnwithsumit.com",
+        "password": "$2a$10$Oc6jXnK6/pbSqmkngo/b.OhsU3JRf4OU1h9QwIoqz8ZUpG/hgHq72",
+        "name": "Akash Ahmed",
+        "id": 2
+      },
+      "message": "hello",
+      "timestamp": 1675258696242,
+      "id": 7
+    },
+    {
+      "conversationId": 6,
+      "sender": {
+        "email": "zakirhossaintuhin@gmail.com",
+        "name": "Zakir Hossain",
+        "id": 4
+      },
+      "receiver": {
+        "email": "akash@learnwithsumit.com",
+        "password": "$2a$10$Oc6jXnK6/pbSqmkngo/b.OhsU3JRf4OU1h9QwIoqz8ZUpG/hgHq72",
+        "name": "Akash Ahmed",
+        "id": 2
+      },
+      "message": "hi",
+      "timestamp": 1675497388130,
+      "id": 8
+    },
+    {
+      "conversationId": 7,
+      "sender": {
+        "email": "zakirhossaintuhin@gmail.com",
+        "name": "Zakir Hossain",
+        "id": 4
+      },
+      "receiver": {
+        "email": "sumit@learnwithsumit.com",
+        "password": "$2a$10$tGMlJhQmAnx7f4cIVY55FOtIRV91wjRwBhdpaANPoslku3P/aAjPK",
+        "name": "Sumit Saha",
+        "id": 1
+      },
+      "message": "hlw",
+      "timestamp": 1675852906133,
+      "id": 9
+    }
+  ]
+}

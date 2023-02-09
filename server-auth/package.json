@@ -1,0 +1,13 @@
+{
+  "name": "chat-application",
+    "description": "Example in memory chat api with json-server",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "start": "nodemon server.js"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.1",
+    "json-server-auth": "^2.1.0"
+  }
+}
